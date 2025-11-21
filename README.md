@@ -16,7 +16,7 @@
 ---
 
 ### 🌐 Connect With Me  
-<p align="left">
+<p align="center">
   <a href="mailto:chamara.wanasinghe227@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/>
   </a>
