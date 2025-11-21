@@ -64,18 +64,3 @@
 ### 🚧 Current Project  
 📌 **Uni_Sports_Hub** – A full-stack university sports management system  
 🔗 Repo: https://github.com/WanaBro227/Uni_Sports_Hub
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Check important info.
